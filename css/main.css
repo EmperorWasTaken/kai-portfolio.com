@@ -285,9 +285,9 @@ header {
 
 .my-services {
     background-color: var(--clr-dark);
-    background-image: url(../img/services-bg.jpg);
+    /*background-image: url(../img/services-bg.jpg);*/
     background-size: cover;
-    background-blend-mode: multiply;
+    
     color: var(--clr-light);
     text-align: center;
 }
@@ -309,6 +309,7 @@ header {
 
 .services {
     margin-bottom: 4em;
+    scale: 1.7;
 }
 
 .service {
@@ -452,4 +453,10 @@ header {
     padding: 0 2em em;
     max-width: 1000px;
     margin: 0 auto;
+}
+
+.devicons img {
+height: 150px;
+width: 150px;
+
 }
