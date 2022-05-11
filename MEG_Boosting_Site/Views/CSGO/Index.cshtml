@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+<link rel="stylesheet" href="~/css/csgo.css" />
+
+
+
+
+<div class="content_csgo">
+<h1>CS:GO Boosting</h1>
+<p class="subtitle">Wide selection of boosts to choose from!</p>
+<div class="row productTypeContent active maximizeBelow1200" style="display: block; width: 70%; border: px solid #9e9e9e; padding: 25px; margin-top :20px; margin-bottom: 100px; margin-left: 0px; margin-right: 0px;">
+    <input type="button" value="Classic CS:GO Ranks" class="form-control-lg btn-dark" onclick="location.href='@Url.Action("Competitive", "CSGO")'">
+    <input type="button" value="ESEA Boost" class="form-control-lg btn-dark" onclick="location.href='@Url.Action("ESEA", "CSGO")'">
+    <input type="button" value="Faceit Boost" class="form-control-lg btn-dark" onclick="location.href='@Url.Action("Faceit", "CSGO")'">
+    <input type="button" value="Wingman Ranks" class="form-control-lg btn-dark" onclick="location.href='@Url.Action("Wingman", "CSGO")'">
+</div>
+</div>

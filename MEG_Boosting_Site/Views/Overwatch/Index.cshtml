@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+<link rel="stylesheet" href="~/css/ow_ss.css" />
+
+<<img src="images/mei_sml.png" alt="" id="sml_csgo_bg">
+
+
+<div class="content_csgo">
+<h1>Overwatch Boosting</h1>
+<p class="subtitle">Wide selection of boosts to choose from!</p>
+<div class="row productTypeContent active maximizeBelow1200" style="display: block; width: 70%; border: px solid #9e9e9e; padding: 25px; margin-top :20px; margin-bottom: 100px; margin-left: 0px; margin-right: 0px;">
+    <input type="button" value="Overwatch Ranks" class="form-control-lg btn-dark" onclick="location.href='@Url.Action("Ranked", "Overwatch")'">
+    <input type="button" value="Level Boosting" class="form-control-lg btn-dark" onclick="location.href='@Url.Action("Levling", "Overwatch")'">
+    <input type="button" value="Coaching" class="form-control-lg btn-dark" onclick="location.href='@Url.Action("Coaching", "Overwatch")'">
+</div>
+</div>

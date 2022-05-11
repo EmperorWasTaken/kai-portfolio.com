@@ -1,0 +1,276 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MEG_Boosting_Site
+build_property.RootNamespace = MEG_Boosting_Site
+build_property.ProjectDir = C:\Users\Kai\Development\MEGBoost\MEG_Boosting_Site\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Kai\Development\MEGBoost\MEG_Boosting_Site
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Cart/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/CSGO/Competitive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1NHT1xDb21wZXRpdGl2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/CSGO/ESEA.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1NHT1xFU0VBLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/CSGO/Faceit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1NHT1xGYWNlaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/CSGO/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1NHT1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/CSGO/Wingman.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1NHT1xXaW5nbWFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/CustomOrder/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tT3JkZXJcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/CustomOrder/CustomOrderView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tT3JkZXJcQ3VzdG9tT3JkZXJWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/CustomOrder/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Home/FAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGQVEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/LeagueOfLegends/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhZ3VlT2ZMZWdlbmRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/LeagueOfLegends/Rankedboost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhZ3VlT2ZMZWdlbmRzXFJhbmtlZGJvb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/LeagueOfLegends/Winsboost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhZ3VlT2ZMZWdlbmRzXFdpbnNib29zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Overwatch/Coaching.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3ZlcndhdGNoXENvYWNoaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Overwatch/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3ZlcndhdGNoXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Overwatch/Levling.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3ZlcndhdGNoXExldmxpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Overwatch/Ranked.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3ZlcndhdGNoXFJhbmtlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Product/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Review/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Review/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Review/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Review/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Review/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/SchoolSubject/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sU3ViamVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/SchoolSubject/DiscreteMOne.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sU3ViamVjdFxEaXNjcmV0ZU1PbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/SchoolSubject/DiscreteMTwo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sU3ViamVjdFxEaXNjcmV0ZU1Ud28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/SchoolSubject/MOne.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sU3ViamVjdFxNT25lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/SchoolSubject/MThree.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sU3ViamVjdFxNVGhyZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/SchoolSubject/MTwo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sU3ViamVjdFxNVHdvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/SchoolSubject/ROne.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sU3ViamVjdFxST25lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/SchoolSubject/RTwo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sU3ViamVjdFxSVHdvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Shared/_BoostPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Cb29zdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Shared/_HomeBestsellersPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ib21lQmVzdHNlbGxlcnNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Shared/_HomeTopReviewPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ib21lVG9wUmV2aWV3UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Shared/_ProductPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Shared/_ReviewPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZXZpZXdQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Shared/_SchoolSubjectPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY2hvb2xTdWJqZWN0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Shared/_SocialMediaPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Tb2NpYWxNZWRpYVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/Shared/_WoWBoostPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Xb1dCb29zdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/WorldOfWarcraft/ClassicIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ybGRPZldhcmNyYWZ0XENsYXNzaWNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/WorldOfWarcraft/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ybGRPZldhcmNyYWZ0XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/WorldOfWarcraft/RetailIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ybGRPZldhcmNyYWZ0XFJldGFpbEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kai/Development/MEGBoost/MEG_Boosting_Site/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

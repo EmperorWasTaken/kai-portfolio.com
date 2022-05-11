@@ -1,0 +1,69 @@
+body {
+    background-image: url(../images/ow_big_bg_2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-color: rgba(137, 196, 244, 1);
+    background-blend-mode: multiply;
+}
+
+.overlay {
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+#sml_csgo_bg {
+    position: fixed;
+    right: -2%;
+}
+
+h1 {
+    font-size: 60px;
+    line-height: 60px;
+    max-width: 685px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Roboto, sans-serif;
+}
+
+.subtitle {
+    color: white;
+    font-size: 20px;
+    line-height: 36px;
+    margin-bottom: 8px;
+    opacity: 0.7;
+    font-family: Roboto, sans-serif;
+}
+
+.content_csgo {
+    position: static;
+}
+
+input {
+    width: 280px;
+    height: 76px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 2px solid rgba(255,255,255,0.2);
+    background-color: rgba(0,0,0,0.3);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: hidden;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.hide {
+    display: none;
+}
+.myDIV:hover + .hide {
+    display: block;
+    color: white;
+    
+}

@@ -1,0 +1,100 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<link rel="stylesheet" href="slick/slick.css"/>
+<link rel="stylesheet" href="slick/slick-theme.css"/>
+<link rel="stylesheet" href="css/sliders.css"/>
+
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="slick/slick.min.js"></script>
+
+
+<div class="responsive">
+    @foreach (var product in Model.Products)
+    {
+        <partial name="_HomeBestsellersPartial" model="product"/>
+    }
+    </div>
+
+
+
+
+
+<br>
+<br>
+<br>
+<p class="text-center" id="home-bestseller-text">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Vestibulum lectus nisl, bibendum dignissim molestie et, faucibus eu sem.
+    Integer luctus, purus vel tristique rhoncus, quam orci iaculis arcu,
+    in accumsan lorem nulla sit amet purus. Nam at lacus a metus efficitur
+    rutrum a a sem. Morbi ultricies ipsum odio, id sagittis felis rutrum at.
+    Maecenas felis est, bibendum id ullamcorper id, suscipit vel purus.
+    Phasellus massa libero, hendrerit eu tortor id, tristique pharetra eros.
+    Donec convallis pretium placerat. Duis ipsum erat, efficitur quis efficitur vitae,
+    iaculis sed ex. Phasellus id luctus purus. Mauris tortor erat,
+    tincidunt id ultricies nec, semper ac metus. Cras vitae nulla lobortis orci
+    fermentum sollicitudin quis tempus lorem. Donec sapien velit, euismod
+    eu dolor sed, facilisis congue lectus.
+</p>
+
+<hr>
+    
+<div class="container-fluid" id="home-index-topreview-container">
+    @foreach (var review in Model.Reviews)
+    {
+        <partial name="_HomeTopReviewPartial" model="review"/>
+    }
+</div>
+
+
+<p class="text-center" id="home-topreview-text">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Vestibulum lectus nisl, bibendum dignissim molestie et, faucibus eu sem.
+    Integer luctus, purus vel tristique rhoncus, quam orci iaculis arcu,
+    in accumsan lorem nulla sit amet purus. Nam at lacus a metus efficitur
+    rutrum a a sem. Morbi ultricies ipsum odio, id sagittis felis rutrum at.
+    Maecenas felis est, bibendum id ullamcorper id, suscipit vel purus.
+    Phasellus massa libero, hendrerit eu tortor id, tristique pharetra eros.
+    Donec convallis pretium placerat. Duis ipsum erat, efficitur quis efficitur vitae,
+    iaculis sed ex. Phasellus id luctus purus. Mauris tortor erat,
+    tincidunt id ultricies nec, semper ac metus. Cras vitae nulla lobortis orci
+    fermentum sollicitudin quis tempus lorem. Donec sapien velit, euismod
+    eu dolor sed, facilisis congue lectus.
+</p>
+
+<hr>
+
+<partial name="_SocialMediaPartial" />
+
+<p class="text-center" id="home-socialmedia-text">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Vestibulum lectus nisl, bibendum dignissim molestie et, faucibus eu sem.
+</p>
+
+<hr>
+
+<div class="container-fluid" id="home-index-information-bottom">
+    <div class="float-child" id="home-index-information-bottom-child">
+        <a asp-controller="Home" asp-action="FAQ">F.A.Q</a>
+    </div>
+    <div class="float-child" id="home-index-information-bottom-child">
+        <a asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </div>
+    <div class="float-child" id="home-index-information-bottom-child">
+        <a asp-controller="Home" asp-action="About">About</a>
+    </div>
+    <div class="float-child" id="home-index-information-bottom-child">
+        <a asp-controller="Home" asp-action="Contact">Contact</a>
+    </div>
+</div>
+
+@section Scripts
+{
+    <script src="~/slick/slick.min.js" asp-append-version="true"></script>
+    <script src="~/slick/slick.js" asp-append-version="true"></script>
+    <script src="~/js/carousel.js" asp-append-version="true"></script>
+}
